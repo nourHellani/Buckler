@@ -25,14 +25,8 @@ select option {
     color: #D23937;
     background-color: #fff;
   } */
-  /* @media (min-width: 768px) {
-    .navbar-brand a{
-      height:15px;
-      width: auto;
+  @media (min-width: 768px) {
+    .navbar-brand  a{
       
     }
-    nav{
-        padding-right: 1rem!important;
-        padding-left: 1rem!important;
-    }
-  } */
+  }
