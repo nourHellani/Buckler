@@ -1,5 +1,6 @@
 .navbar-custom {
     color: white;
+    /* UI Properties */
     background: #D23937 0% 0% no-repeat padding-box;
     opacity: 1;
 }
@@ -19,11 +20,4 @@ select option {
     background: #D23937;
     color: #fff;
 
-}
-.custom-div{
-    background-color: black;
-    padding: 3rem;
-}
-.custom-div p{
-    color: #fff;
 }
