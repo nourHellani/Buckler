@@ -1,0 +1,20 @@
+.navbar-custom {
+    color: white;
+/* UI Properties */
+background: #D23937 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.navbar-dark{
+    background-color: #D23937
+}
+.select-custom {
+    border:0;
+    background-color: transparent;
+    outline: none;
+    text-shadow: 0 1px 0 #D23937;
+}
+select option {
+    background: #D23937;
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+  }

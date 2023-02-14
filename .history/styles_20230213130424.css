@@ -1,0 +1,12 @@
+.navbar-custom {
+    background-color: #D23937;
+    color: white;
+    height: 170px;
+/* UI Properties */
+background: #D23937 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.navbar-dark{
+    background-color: #D23937
+}
+

@@ -1,0 +1,22 @@
+.navbar-custom {
+    color: white;
+/* UI Properties */
+background: #D23937 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.navbar-dark{
+    background-color: #D23937
+}
+.select-custom {
+    border:0;
+    background-color: transparent;
+    outline: none;
+}
+.select option {
+    background: #D23937;
+    color: #fff;
+
+  }
+  option:hover {
+    background-color: yellow;
+  }
